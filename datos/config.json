@@ -1,0 +1,23 @@
+{
+    "config": {
+        "ventana": {
+            "ancho": 800,
+            "alto": 600,
+            "titulo": "Jueguito"
+        },
+        "audio": {
+            "volumen": 0.7
+        },
+        "colores": {
+            "fondo": [
+                5,
+                1,
+                87
+            ],
+            "primario": [],
+            "secundario": [],
+            "texto_claro": [],
+            "texto_oscuro": []
+        }
+    }
+}
