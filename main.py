@@ -1,3 +1,8 @@
+# En caso de que quede remarcado en amarillo ejecutar el siguietne comando:
+#                               python -m pip install pygame --upgrade
+
+# Pygame es una biblioteca gráfica que nos permite realizar apps tipo juegos de manera sencilla
+# Otra biblioteca para interfaz gráfica (No juegos) es tkinter
 
 # Formatos de imágen que Pygame soporta:
 #       - .png
